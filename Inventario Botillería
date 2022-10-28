@@ -1,0 +1,16 @@
+##clases##
+class Product
+{
+  ##atributos##
+  name=''
+  price=''
+  stock=''
+  barcode=''
+  supplier=''
+  discount=''
+  
+  ##metodos##
+  purchase_products()
+  sale_products()
+  apply_discount()
+  critical_stock()
