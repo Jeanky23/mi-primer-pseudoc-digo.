@@ -8,9 +8,12 @@ class Product
   barcode=''
   supplier=''
   discount=''
+  ##fin atributos##
   
   ##metodos##
   purchase_products()
   sale_products()
-  apply_discount()
+  create_discount()
   critical_stock()
+  ##fin metodos##
+}
